@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
