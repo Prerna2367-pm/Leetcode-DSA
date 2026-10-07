@@ -32,6 +32,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0301-remove-invalid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
