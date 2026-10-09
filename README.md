@@ -36,6 +36,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -93,8 +95,10 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
