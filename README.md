@@ -50,6 +50,7 @@
 | [0011-container-with-most-water](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0018-4sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
