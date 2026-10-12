@@ -35,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -97,11 +98,13 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Enumeration
