@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0018-4sum](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/0018-4sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prerna2367-pm/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
